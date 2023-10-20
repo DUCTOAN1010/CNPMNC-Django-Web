@@ -1,0 +1,13 @@
+admin:
+	username:admin
+	gmail:leductoan10102002@gmail.com
+	password: 123456 
+
+
+user:
+	username: user1
+	gmail:abc@gmail.com
+	pass:123456
+
+
+               

@@ -1,0 +1,27 @@
+lệnh lùi- quay lại : cd..
+
+lẹnh khởi tạo project :
+	django-admin startproject webbanhang
+
+lenh tao thu muc con
+	django-admin startapp app
+
+
+luu lai nhung gi da code:
+	python manage.py migrate
+luu lai tien do CSDL django
+	python manage.py makemigrations
+
+chay sever:
+	python manage.py runserver
+
+Tạo user-admin:
+	python manage.py createsuperuser
+	chú ý khi nhập password sẽ ko hiện trên terminal
+
+công cụ: bootstrap, jquery, navbar, slider, Django's CSRF protection
+
+
+	pip install pillow : công cụ hỗ trợ tải hình ảnh
+
+
